@@ -1,0 +1,3 @@
+ID    Name                 Location        Phone           Email                     Gender          DOB        Start Date Plan       Price      Attendance Loyalty    Active     Trainer    Referral        Paid Amt        Discount       
+1     Naitik Joshi         KTM             9765538194      djsajfjdsanfoksgoskd      Male            1-Jan-1950 1-Jan-2021 basic      6500.00    1          5.0        true       N/A        Prince Raj      0.00            0.00           
+2     Prince Raj           DHN             9765538194      djsajfjdsanfoksgoskd      Male            1-Jan-1950 1-Jan-2021 Premium    50000.00   0          0.0        false                 N/A             0.00            0.00           
