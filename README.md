@@ -86,7 +86,7 @@ To run this project, you will need to have the **Java Development Kit (JDK)** in
 ### Running the Application
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone https://github.com/Nick-Zoc/javaGymGuiL1AI1.git
     ```
 
 2.  **Navigate to the source directory:**
@@ -110,10 +110,10 @@ The application window should now appear.
 
 ## 🧑‍💻 Author
 
-**[Your Name]**
+**Nick**
 
-* GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* LinkedIn: [Your LinkedIn Profile URL](https://linkedin.com/in/your-profile)
+* GitHub: https://github.com/Nick-Zoc
+* LinkedIn: https://www.linkedin.com/in/naitik-joshi-075a45255
 
 ---
 
