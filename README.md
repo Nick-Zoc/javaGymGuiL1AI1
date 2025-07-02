@@ -91,7 +91,7 @@ To run this project, you will need to have the **Java Development Kit (JDK)** in
 
 2.  **Navigate to the source directory:**
     ```sh
-    cd YOUR_REPOSITORY_NAME
+    cd javaGymGuiL1AI1
     ```
     *(Assuming your `.java` files are in the root of the repository. If they are in a `src` folder, `cd src`)*
 
